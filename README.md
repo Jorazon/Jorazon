@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorazon&layout=compact&theme=synthwave&hide_border=true&include_all_commits=true&card_width=445&hide=dockerfile,batchfile,html,css,shell)](https://github.com/anuraghazra/github-readme-stats)
-![Cat](./pixel-cat.gif)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorazon&layout=compact&theme=synthwave&hide_border=true&include_all_commits=true&card_width=640&hide=dockerfile,batchfile,html,css,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Cat](./pixel-cat.gif)](cattherapy.neocities.org)  
 <!--
 Cat from https://cattherapy.neocities.org/cat.gif
 -->
