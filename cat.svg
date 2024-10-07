@@ -14,11 +14,11 @@
 	</filter>
 
 	<image
-		href="pixel-cat.gif"
+		href="https://github.com/Jorazon/Jorazon/blob/main/pixel-cat.gif?raw=true"
 		height="200"
 		transform="translate(80 69) skewX(-50) scale(1 .5)"
 		filter="url(#shadow)"
 		opacity="0.75"
 	/>
-	<image href="pixel-cat.gif" />
+	<image href="https://github.com/Jorazon/Jorazon/blob/main/pixel-cat.gif?raw=true" />
 </svg>
