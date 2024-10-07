@@ -1,0 +1,24 @@
+<svg fill="none" viewBox="0 0 200 200" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+	<filter id="shadow">
+		<feColorMatrix
+			in="SourceGraphic" type="matrix"
+			values="0 0 0 0 0
+				0 0 0 0 0
+				0 0 0 0 0
+				0 0 0 1 0"
+		/>
+		<feGaussianBlur
+			stdDeviation="10"
+			result="BLUR"
+		/>
+	</filter>
+
+	<image
+		href="pixel-cat.gif"
+		height="200"
+		transform="translate(80 69) skewX(-50) scale(1 .5)"
+		filter="url(#shadow)"
+		opacity="0.75"
+	/>
+	<image href="pixel-cat.gif" />
+</svg>
